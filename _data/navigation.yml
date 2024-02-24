@@ -2,3 +2,7 @@
   link: /
 - name: About
   link: /about.html
+- name: Blog
+  link: /posts.html
+- name: Categories
+  link: /category_list.html
